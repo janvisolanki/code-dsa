@@ -1,3 +1,4 @@
+/* c program for pointer through gets and puts */
 #include<stdio.h>
 #include<conio.h>
 main()
